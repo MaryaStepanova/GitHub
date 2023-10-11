@@ -1,0 +1,21 @@
+Bug_ID:
+	Title:
+	Environment:
+		OS:
+		Browser:
+	Precondition:
+		1.
+		2.
+	Steps to reproduce:
+		1.
+		2.
+		3.
+	AR:
+	ER:
+	Severity:
+	Priority:
+	Attachments:
+	Author:
+	Date:
+
+
